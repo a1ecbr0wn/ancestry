@@ -1,55 +1,51 @@
-# Ralph Henry Joseph Brown
+# Ralph Brown
 
-- b 5 June 1911, [Mandeville](https://www.google.com/maps/place/Mandeville,+Torquay+Rd,+Foxrock,+Dublin+18,+Ireland/@53.2706439,-6.1870742,17z/data=!3m1!4b1!4m5!3m4!1s0x48670856fe88ccd9:0xc3a92c52080930c8!8m2!3d53.2706407!4d-6.1848855) [1078736](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/3e02b91078736?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dralph%26namel%3Dbrown%26location%3D%26yyfrom%3D1911%26yyto%3D1911%26type%3DB%26submit%3DSearch)
+## Events
 
-## Family
+18/11/1847 - [John Brown & Ellen Walker Marriage][mjbew] - [Church of Kilmore][kilmore], Armagh
+02/01/1866 - [Joseph Brown Birth][bjb]- Father John Brown (Farmer) - Mother: Ellen Brown (nee Walker) - [Creenagh, Armagh][creenagh]
+30/10/1867 - [John Todd & Mary Morton Marriage][mjtmm] - John: Tankardstown, Co Laois - Mary: Clonliffe, Co. Dublin - near [St Mary's Chapel of Ease, Dublin][marys]
+17/07/1868 - [Elizabeth Todd Birth][bet] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankerstown, Ballylinan, Queen's County (County Laois)][tankerstown]
+20/09/1869 - [William Francis Todd Birth][bwt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankerstown, Ballylinan, Queen's County (County Laois)][tankerstown]
+10/06/1880 - [John Todd Death][djt] - Farmer, Age 40 - [Farnham House, Finglas, Dublin (Mental Hospital)][finglas]
+15/02/1881 - [Ellen Brown Death][deb] - Farmer's Widow, Age 59 - Richhill, Armagh
+10/07/1896 - [Joseph Brown & Elizabeth Todd Marriage][mjbet] - Joseph: [79 Wellington Road, Dublin][wellington] - Elizabeth [13 Earlsfort Terrace][earlsfort] - [St Mathius Church, Killiney, Dublin][mathius]
+12/03/1897 - [Mary Moira Brown Birth][bmb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [5 Richmond Hill, Monkstown, Dublin][richmond]
+14/02/1899 - [Frances Ellen Brown Birth][bfb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [Bellevue, Sutton, Dublin][bellevue]
+05/06/1911 - [Ralph Henry Joseph Brown Birth][brb] - Father: Joseph Brown (Professor), Mother: Elizabeth Brown - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
+29/03/1920 - [Joseph Brown Death][djb] - Professor of Mathematics, Age 53 - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
+22/08/1928 - [Mary Morton Todd Death][dmt] - Widow, Age 87 - 6 Fortfield Villas, Rathborne, Dublin
+01/01/1933 - [William Francis Todd Death][dwt] - Independant Means, Age 62 - Foxrock, Dublin
 
-- Father: Joseph Brown, Professor of Mathematics
-  - b 02/01/1866 Creenagh, Kilmore, Co Armagh [Armargh 8029997](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/98a4ce8029997?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3DJoseph%26namel%3DBrown%26location%3D%26yyfrom%3D1865%26yyto%3D1866%26type%3DB%26submit%3DSearch%26sort%3D%26pageSize%3D100%26century%3D%26decade%3D%26exact%3D%26ddBfrom%3D%26ddMfrom%3D%26ddDfrom%3D%26ddPfrom%3D%26mmBfrom%3D%26mmMfrom%3D%26mmDfrom%3D%26mmPfrom%3D%26yyBfrom%3D%26yyMfrom%3D%26yyDfrom%3D%26yyPfrom%3D%26ddBto%3D%26ddMto%3D%26ddDto%3D%26ddPto%3D%26mmBto%3D%26mmMto%3D%26mmDto%3D%26mmPto%3D%26yyBto%3D%26yyMto%3D%26yyDto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3D)
-  - m 01/07/1895 - [79 Wellington Road, Dublin](https://www.google.com/maps/place/79+Wellington+Rd,+Ballsbridge,+Dublin,+D04+X6C7,+Ireland/@53.3289726,-6.2445198,17z/data=!3m1!4b1!4m5!3m4!1s0x48670eb94248d639:0x23459ca2600ea67e!8m2!3d53.3289694!4d-6.2423311)
-    - [St Matthius, Dublin South, 2220786](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/d851f82220786?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djoseph%26namel%3Dbrown%26location%3D%26yyfrom%3D1895%26yyto%3D1895%26type%3DM%26submit%3DSearch)
-  - d - 29/03/1920 [Rathdown 5765767](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/e46f745765767?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djoseph%26namel%3Dbrown%26location%3D%26yyfrom%3D1920%26yyto%3D1920%26type%3DD%26submit%3DSearch%26sort%3D%26pageSize%3D100%26century%3D%26decade%3D%26exact%3D%26ddBfrom%3D%26ddMfrom%3D%26ddDfrom%3D%26ddPfrom%3D%26mmBfrom%3D%26mmMfrom%3D%26mmDfrom%3D%26mmPfrom%3D%26yyBfrom%3D%26yyMfrom%3D%26yyDfrom%3D%26yyPfrom%3D%26ddBto%3D%26ddMto%3D%26ddDto%3D%26ddPto%3D%26mmBto%3D%26mmMto%3D%26mmDto%3D%26mmPto%3D%26yyBto%3D%26yyMto%3D%26yyDto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DRathdown)
-- Mother: Elizabeth Brown (Todd)
-  - b 17/07/1868 - [Athy 7498156](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/0232117498156?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Delizabeth%26namel%3Dtodd%26location%3D%26yyfrom%3D1865%26yyto%3D1877%26type%3DB%26submit%3DSearch)
-  - m 01/07/1895 - [13 Earlsforth Terrace, Dublin](https://www.google.com/maps/place/13+Earlsfort+Terrace,+Saint+Kevin's,+Dublin,+Ireland/@53.3336121,-6.2599424,17z/data=!3m1!4b1!4m5!3m4!1s0x48670ea1f56daf05:0x1a5be4489d5fc5b5!8m2!3d53.3336102!4d-6.2586522)
-    - [St Matthius, Dublin South, 2220786](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/d851f82220786?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djoseph%26namel%3Dbrown%26location%3D%26yyfrom%3D1895%26yyto%3D1895%26type%3DM%26submit%3DSearch)
+## Published
 
-- Sister: Mary Moira Brown
-  - b 12/03/1897 [5 Richmond Hill, Monkstown](https://www.google.com/maps/place/5+Richmond+Hill,+Monkstown,+Co.+Dublin,+A94+WD88,+Ireland/@53.2916107,-6.1555891,17z/data=!4m5!3m4!1s0x4867089962c412a5:0xec179ba42f48bfb9!8m2!3d53.2916107!4d-6.1534004) [Rathdown 10881992](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/61b8b810881992?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3D%26namel%3Dbrown%26exact%3D%26name2fm%3D%26name2l%3D%26location%3D%26yyfrom%3D1897%26yyto%3D1899%26type%3DB%26century%3D%26decade%3D%26sort%3D%26pageSize%3D100%26ddBfrom%3D%26mmBfrom%3D%26yyBfrom%3D%26ddMfrom%3D%26mmMfrom%3D%26yyMfrom%3D%26ddDfrom%3D%26mmDfrom%3D%26yyDfrom%3D%26ddPfrom%3D%26mmPfrom%3D%26yyPfrom%3D%26ddBto%3D%26mmBto%3D%26yyBto%3D%26ddMto%3D%26mmMto%3D%26yyMto%3D%26ddDto%3D%26mmDto%3D%26yyDto%3D%26ddPto%3D%26mmPto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DRathdown%26submit%3DSearch)
+01/08/1936 - [The Beams Ultracentrifuge, Nature][ultracentrifuge] - W. Cusak Fahie & Ralph H. J. Brown
+14/11/1936 - [Effect of Large Centrifugal Force on Paramecium, Nature][paramecium] - W. Cusak Fahie & Ralph H. J. Brown
 
-- Sister: Frances Eleanor Brown
-  - b 14/02/1899 [Bellevue House, 16 Station Road, Sutton, Dublin](https://www.google.com/maps/place/Bellevue+House,+Station+Rd,+Burrow,+Dublin+13,+Ireland/@53.3907775,-6.1140266,3a,75y,33.58h,90t/data=!3m7!1e1!3m5!1sd2qWJ18P7bTHOlYehH3DIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dd2qWJ18P7bTHOlYehH3DIQ%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D33.57616%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m5!3m4!1s0x486705212b2a8c9b:0x302eb97ccd6d88!8m2!3d53.3910084!4d-6.1137703) [Dublin North 9732290](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/f9afb59732290?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dfrances%26namel%3DBrown%26location%3D%26yyfrom%3D1898%26yyto%3D1900%26type%3DB%26submit%3DSearch)
-
-## Census
-
-- [1901 Census, Bellevue House](http://www.census.nationalarchives.ie/pages/1901/Dublin/Howth/Burrow/1270446/)
-- [1911 Census, Mandeville](http://www.census.nationalarchives.ie/pages/1911/Dublin/Stillorgan/Galloping_Green__South/90784/)
-
-## Joseph's Family
-
-- Father: John Brown, Farmer
-- Mother: Ellen Brown (Walker)
-  - b 1821~1822
-  - m 18/11/1847 [St Aiden's Church, Kilmore](https://www.google.com/maps/place/St+Aidans+Church+of+Ireland/@54.3998936,-6.5500341,17.39z/data=!4m13!1m7!3m6!1s0x4860ed94efe67de9:0x4a0e587fb0be7765!2sKilmore,+Armagh+BT61+8PA!3b1!8m2!3d54.39872!4d-6.5472!3m4!1s0x4860edba8e1a5a93:0x2216c3dcfaaeff2c!8m2!3d54.4003389!4d-6.5483227) [Armagh 3173026](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/3d13873173026?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djohn%26namel%3Dbrown%26location%3DArmagh%26yyfrom%3D1840%26yyto%3D1866%26type%3DM%26submit%3DSearch%26sort%3D%26pageSize%3D100%26century%3D%26decade%3D%26exact%3D%26ddBfrom%3D%26ddMfrom%3D%26ddDfrom%3D%26ddPfrom%3D%26mmBfrom%3D%26mmMfrom%3D%26mmDfrom%3D%26mmPfrom%3D%26yyBfrom%3D%26yyMfrom%3D%26yyDfrom%3D%26yyPfrom%3D%26ddBto%3D%26ddMto%3D%26ddDto%3D%26ddPto%3D%26mmBto%3D%26mmMto%3D%26mmDto%3D%26mmPto%3D%26yyBto%3D%26yyMto%3D%26yyDto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DArmagh)
-  - d 15/02/1881 [Armagh 5964002](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/d019695964002?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dellen%26namel%3Dbrown%26location%3DArmagh%26yyfrom%3D1866%26yyto%3D1910%26type%3DB%26type%3DD%26submit%3DSearch%26sort%3D%26pageSize%3D100%26century%3D%26decade%3D%26exact%3D%26ddBfrom%3D%26ddMfrom%3D%26ddDfrom%3D%26ddPfrom%3D%26mmBfrom%3D%26mmMfrom%3D%26mmDfrom%3D%26mmPfrom%3D%26yyBfrom%3D%26yyMfrom%3D%26yyDfrom%3D%26yyPfrom%3D%26ddBto%3D%26ddMto%3D%26ddDto%3D%26ddPto%3D%26mmBto%3D%26mmMto%3D%26mmDto%3D%26mmPto%3D%26yyBto%3D%26yyMto%3D%26yyDto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DArmagh)
-
-## Elizabeth Todd's Family
-
-- Father: John Todd, Farmer
-  - b - ~1840
-  - d - 19/07/1880 [Dublin North 6419264](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/5505a86419264?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djohn%26namel%3Dtodd%26exact%3D%26name2fm%3D%26name2l%3D%26location%3D%26yyfrom%3D1869%26yyto%3D1930%26type%3DD%26century%3D%26decade%3D%26sort%3D%26pageSize%3D100%26ddBfrom%3D%26mmBfrom%3D%26yyBfrom%3D%26ddMfrom%3D%26mmMfrom%3D%26yyMfrom%3D%26ddDfrom%3D%26mmDfrom%3D%26yyDfrom%3D%26ddPfrom%3D%26mmPfrom%3D%26yyPfrom%3D%26ddBto%3D%26mmBto%3D%26yyBto%3D%26ddMto%3D%26mmMto%3D%26yyMto%3D%26ddDto%3D%26mmDto%3D%26yyDto%3D%26ddPto%3D%26mmPto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DDublin%2BNorth%26submit%3DSearch)
-- Mother: Mary Todd (Morton)
-  - b - ~1841
-  - m - 30/10/1867 [Dublin North 3141673](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/c13ec53141673?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Djohn%26namel%3Dtodd%26location%3D%26yyfrom%3D1867%26yyto%3D1867%26type%3DM%26submit%3DSearch%26sort%3D%26pageSize%3D100%26century%3D%26decade%3D%26exact%3D%26ddBfrom%3D%26ddMfrom%3D%26ddDfrom%3D%26ddPfrom%3D%26mmBfrom%3D%26mmMfrom%3D%26mmDfrom%3D%26mmPfrom%3D%26yyBfrom%3D%26yyMfrom%3D%26yyDfrom%3D%26yyPfrom%3D%26ddBto%3D%26ddMto%3D%26ddDto%3D%26ddPto%3D%26mmBto%3D%26mmMto%3D%26mmDto%3D%26mmPto%3D%26yyBto%3D%26yyMto%3D%26yyDto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DDublin%2BNorth)
-  - d - 22/08/1928 [Dublin South 1546827](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/1843c21546827?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dmary%26namel%3Dtodd%26exact%3D%26name2fm%3D%26name2l%3D%26location%3D%26yyfrom%3D%26yyto%3D%26type%3DD%26century%3D%26decade%3D%26sort%3D%26pageSize%3D100%26ddBfrom%3D%26mmBfrom%3D%26yyBfrom%3D%26ddMfrom%3D%26mmMfrom%3D%26yyMfrom%3D%26ddDfrom%3D%26mmDfrom%3D%26yyDfrom%3D%26ddPfrom%3D%26mmPfrom%3D%26yyPfrom%3D%26ddBto%3D%26mmBto%3D%26yyBto%3D%26ddMto%3D%26mmMto%3D%26yyMto%3D%26ddDto%3D%26mmDto%3D%26yyDto%3D%26ddPto%3D%26mmPto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DDublin%2BSouth%26submit%3DSearch)
-- Brother: William Frances Todd, Barister at Law
-  - b ~ 27/09/1869 Queen's County [Athy 7911816](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/cc4aa07911816?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dwilliam%26namel%3Dtodd%26exact%3D%26name2fm%3D%26name2l%3D%26location%3D%26yyfrom%3D1865%26yyto%3D1877%26type%3DB%26century%3D%26decade%3D%26sort%3D%26pageSize%3D100%26ddBfrom%3D%26mmBfrom%3D%26yyBfrom%3D%26ddMfrom%3D%26mmMfrom%3D%26yyMfrom%3D%26ddDfrom%3D%26mmDfrom%3D%26yyDfrom%3D%26ddPfrom%3D%26mmPfrom%3D%26yyPfrom%3D%26ddBto%3D%26mmBto%3D%26yyBto%3D%26ddMto%3D%26mmMto%3D%26yyMto%3D%26ddDto%3D%26mmDto%3D%26yyDto%3D%26ddPto%3D%26mmPto%3D%26yyPto%3D%26locationB%3D%26locationM%3D%26locationD%3D%26locationP%3D%26keywordb%3D%26keywordm%3D%26keywordd%3D%26keywordp%3D%26event%3D%26district%3DAthy%26submit%3DSearch)
-  - d - 10/01/1933 [Rathdown 2611444](https://civilrecords.irishgenealogy.ie/churchrecords/details-civil/fe92f32611444?b=https%3A%2F%2Fcivilrecords.irishgenealogy.ie%2Fchurchrecords%2Fcivil-perform-search.jsp%3Fnamefm%3Dwilliam%26namel%3Dtodd%26location%3D%26yyfrom%3D%26yyto%3D%26type%3DD%26submit%3DSearch)
-
-## House Info - Mandaville
-
-- [National Inventory of Archetectural Heritage](https://www.buildingsofireland.ie/buildings-search/building/60230026/mandeville-torquay-road-galloping-green-south-dun-laoghaire-rathdown)
-
-## House Info - Bellevue House
-
-- [National Inventory of Archetectural Heritage](https://www.buildingsofireland.ie/buildings-search/building/11358010/bellevue-house-16-station-road-burrow-co-by-howth-ed-sutton-dublin)
+[mjbew]: john-brown-ellen-walker-marriage-5375131.pdf
+[mjtmm]: john-todd-mary-morton-marriage-8233829.pdf
+[mjbet]: joseph-brown-elizabeth-todd-marriage-5837578.pdf
+[bjb]: joseph-brown-birth-2304677.pdf
+[bet]: elizabeth-brown-todd-birth-2258204.pdf
+[bwt]: william-todd-birth-2236072.pdf
+[bmb]: moira-brown-birth-1809338.pdf
+[bfb]: frances-brown-birth-1781727.pdf
+[brb]: ralph-brown-birth-1617248.pdf
+[djt]: john-todd-death-4860229.pdf
+[deb]: ellen-brown-death-4854649.pdf
+[djb]: joseph-brown-death-4410453.pdf
+[dmt]: mary-morton-todd-death-4347261.pdf
+[dwt]: william-todd-death-4316053.pdf
+[kilmore]: https://goo.gl/maps/Q34u7aQVfcHRMDyk9
+[creenagh]: https://goo.gl/maps/nqLH15nnbTRxAA297
+[marys]: https://goo.gl/maps/DkE3m2JsXR6dBEHd6
+[tankerstown]: https://goo.gl/maps/hnw2fLqUDeG5CqEu7
+[finglas]: https://goo.gl/maps/pfB8CJmqyQZnPiV9A
+[wellington]: https://goo.gl/maps/StfrexiN9JsizqLB8
+[earlsfort]: https://goo.gl/maps/NmMjo6xdYMQnetGG7
+[mathius]: https://goo.gl/maps/XMNLwS7DaekfCEn68
+[richmond]: https://goo.gl/maps/VkzwNNJ19ogkasV36
+[bellevue]: https://goo.gl/maps/qydNZgZp45QjVjuS7
+[Mandeville]: https://goo.gl/maps/hHANsYPr6JrsAyFU6
+[ultracentrifuge]: 138207b0.pdf
+[paramecium]: 138843a0.pdf
