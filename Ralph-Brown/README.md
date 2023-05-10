@@ -1,4 +1,50 @@
-# Ralph Brown
+# Ralph Brown - Irish Records
+
+## Family Tree
+
+```mermaid
+flowchart TB
+    job[John Brown]
+    ell("Ellen Walker
+      d:15/02/1881")
+    jot["John Todd
+      d: 10/06/1880"]
+    mar("Mary Morton
+      d: 22/08/1928")
+    jos["Joseph Brown
+      b: 02/01/1866
+      d: 29/03/1920"]
+    eli("Elizabeth Todd
+      b: 17/07/1868")
+    wil["William Francis Todd
+      b: 20/09/1869
+      d: 01/01/1933"]
+    moi("Mary Moira Brown
+      b: 12/03/1897")
+    fra("Frances Eleanor Brown
+      b: 14/02/1899")
+    ral["Ralph Henry Joseph Brown
+      b: 05/06/1911"]
+
+    subgraph jotmar["m: 30/10/1867"]
+        direction LR
+        jot ---mar
+    end
+    jotmar -->eli
+    jotmar -->wil
+    subgraph jobell["m: 18/11/1847"]
+        direction LR
+        job ---ell
+    end
+    jobell -->jos
+    subgraph joseli["m: 10/07/1896"]
+        direction LR
+        jos ---eli
+    end
+    joseli -->moi
+    joseli -->fra
+    joseli -->ral
+```
 
 ## Events
 
