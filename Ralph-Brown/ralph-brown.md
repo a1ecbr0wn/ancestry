@@ -12,6 +12,8 @@
 10/07/1896 - [Joseph Brown & Elizabeth Todd Marriage][mjbet] - Joseph: [79 Wellington Road, Dublin][wellington] - Elizabeth [13 Earlsfort Terrace][earlsfort] - [St Mathius Church, Killiney, Dublin][mathius]
 12/03/1897 - [Mary Moira Brown Birth][bmb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [5 Richmond Hill, Monkstown, Dublin][richmond]
 14/02/1899 - [Frances Ellen Brown Birth][bfb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [Bellevue, Sutton, Dublin][bellevue]
+31/03/1901 - [1901 Census][1901] - Joseph Brown (Age 35, School Master), Elizabeth Brown (Age 32), Mary Moira Brown (Age 4), Frances Eleanor Brown (Age 2)
+02/04/1911 - [1911 Census][1911-1], [p2][1911-2] - Elizabeth Brown (Age 42), Mary Moira Brown (Age 14), Frances Eleanor Brown (Age 12), Mary Morton Todd (Age 69), William Francis Todd (Age 41, Barister at Law)
 05/06/1911 - [Ralph Henry Joseph Brown Birth][brb] - Father: Joseph Brown (Professor), Mother: Elizabeth Brown - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
 29/03/1920 - [Joseph Brown Death][djb] - Professor of Mathematics, Age 53 - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
 22/08/1928 - [Mary Morton Todd Death][dmt] - Widow, Age 87 - 6 Fortfield Villas, Rathborne, Dublin
@@ -49,3 +51,6 @@
 [Mandeville]: https://goo.gl/maps/hHANsYPr6JrsAyFU6
 [ultracentrifuge]: 138207b0.pdf
 [paramecium]: 138843a0.pdf
+[1901]: 1901-census.pdf
+[1911-1]: 1911-census-1.pdf
+[1911-2]: 1911-census-2.pdf
