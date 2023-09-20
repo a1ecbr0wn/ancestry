@@ -11,6 +11,8 @@ flowchart TB
       d: 10/06/1880"]
     mar("Mary Morton
       d: 22/08/1928")
+    geo["George Brown
+      b: 18/01/1864"]
     jos["Joseph Brown
       b: 02/01/1866
       d: 29/03/1920"]
@@ -70,6 +72,7 @@ flowchart TB
         direction LR
         job ---ell
     end
+    jobell -->geo
     jobell -->jos
     subgraph joseli["m: 10/07/1896"]
         direction LR
@@ -83,22 +86,29 @@ flowchart TB
 ## Events
 
 - 18/11/1847 - [John Brown & Ellen Walker Marriage][mjbew] - [Church of Kilmore][kilmore], Armagh
-- 02/01/1866 - [Joseph Brown Birth][bjb]- Father John Brown (Farmer) - Mother: Ellen Brown (nee Walker) - [Creenagh, Armagh][creenagh]
+- 18/01/1864 - [George Brown Birth][bgb] - Father: John Brown (Farmer) - Mother: Ellen Brown (nee Walker) - [Creenagh, Armagh][creenagh]
+- 02/01/1866 - [Joseph Brown Birth][bjb] - Father: John Brown (Farmer) - Mother: Ellen Brown (nee Walker) - [Creenagh, Armagh][creenagh]
 - 30/10/1867 - [John Todd & Mary Morton Marriage][mjtmm] - John: [Tankardstown, Co Laois][tankardstown] - Mary: Clonliffe, Co. Dublin - near [St Mary's Chapel of Ease, Dublin][marys]
 - 17/07/1868 - [Elizabeth Todd Birth][bet] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
-- 20/09/1869 - [William Francis Todd Birth][bwt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankerstown, Ballylinan, Queen's County (County Laois)][tankerstown]
+- 20/09/1869 - [William Francis Todd Birth][bwt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
+- 08/05/1871 - [Lucy Mary Todd][blmt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
+- 30/05/1873 - [Helen Morton Todd Birth][bhmt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
+- 23/03/1875 - [John Paul Todd Birth][bjpt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
 - 10/06/1880 - [John Todd Death][djt] - Farmer, Age 40 - [Farnham House, Finglas, Dublin (Mental Hospital)][finglas]
 - 15/02/1881 - [Ellen Brown Death][deb] - Farmer's Widow, Age 59 - Richhill, Armagh
 - 10/07/1896 - [Joseph Brown & Elizabeth Todd Marriage][mjbet] - Joseph: [79 Wellington Road, Dublin][wellington] - Elizabeth [13 Earlsfort Terrace][earlsfort] - [St Mathius Church, Killiney, Dublin][mathius]
 - 12/03/1897 - [Mary Moira Brown Birth][bmb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [5 Richmond Hill, Monkstown, Dublin][richmond]
-- 14/02/1899 - [Frances Ellen Brown Birth][bfb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [Bellevue, Sutton, Dublin][bellevue]
-- 04/10/1900 - [John Todd & Jane Matthews Marriage][mjtjm] - John: Mechanical Engineer, [4 Haddon Terrace, Clontarf, Dublin][haddon], Jane: [Salem House, Rathmines, Dublin][salem]
-- 31/03/1901 - [1901 Census][1901] - Joseph Brown (Age 35, School Master), Elizabeth Brown (Age 32), Mary Moira Brown (Age 4), Frances Eleanor Brown (Age 2)
+- 14/02/1899 - [Frances Ellen Brown Birth][bfb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [Bellevue, 16 Station Road, Sutton, Dublin][bellevue]
+- 04/10/1900 - [John Todd & Jane Matthews Marriage][mjtjm] - John: Mechanical Engineer, [4 Haddon Terrace, Clontarf, Dublin][haddon], Jane: [Salem House, Rathmines, Dublin][salem] - [The Church of the Holy Trinity, Rathmines, Dublin][holy-trinity]
+- 31/03/1901 - [1901 Census - Brown][1901] - Joseph Brown (Age 35, School Master), Elizabeth Brown (Age 32), Mary Moira Brown (Age 4), Frances Eleanor Brown (Age 2), [Burrow, Howth, Dublin][bellevue]
+- 31/03/1901 - [1901 Census - Todd][1901-t] - John Paul Todd (Age 26), Jane Constance Todd (Age 22), [Haddon Road, Clontarf East, Dublin][haddon]
 - 11/05/1903 - [Paul Vivien Todd][pvt] - Father: John Paul Todd (Engineer), Mother: Jane Constance Todd - [4 Haddon Terrace, Clontarf, Dublin][haddon]
-- 17/07/1903 - [Helen Molly Forbes Redmond][hmfr] - Father: William Charles Forbes Redmond, Mother: Ethel Todd - Church Street, Mountmellick
-- 23/10/1903 - [William Charles Forbes Redmond & Ethel Todd Marriage][mwreth] - William: Electrical Engineer, Newcastle on Tyne, Ethel: Howth, Dublin
-- 10/08/1905 - [Rhona Forbes Redmond][rfr] - Father: William Charles Forbes Redmond, Mother: Ethel Todd - Church Street, Mountmellick
-- 02/04/1911 - [1911 Census][1911-1], [p2][1911-2] - Elizabeth Brown (Age 42), Mary Moira Brown (Age 14), Frances Eleanor Brown (Age 12), Mary Morton Todd (Age 69), William Francis Todd (Age 41, Barister at Law)
+- 17/07/1903 - [Helen Molly Forbes Redmond][hmfr] - Father: William Charles Forbes Redmond, Mother: Ethel Todd - [Church Street, Mountmellick, Queens County (County Laois)][mountmellick]
+- 23/10/1903 - [William Charles Forbes Redmond & Ethel Todd Marriage][mwreth] - William: District Inspector, Royal Irish Constabulary, Maryborough, Queens County (County Laois), Ethel: [St Lawrence Lodge, 18 Station Road, Sutton, Dublin][stlawrence] [House][stla] - [Howth Church, Howth, Dublin][howth-church]
+- 10/08/1905 - [Rhona Forbes Redmond][rfr] - Father: William Charles Forbes Redmond, Mother: Ethel Todd - [Church Street, Mountmellick][Mountmellick]
+- 02/04/1911 - [1911 Census - Brown][1911-b1], [p2][1911-b2] - Elizabeth Brown (Age 42), Mary Moira Brown (Age 14), Frances Eleanor Brown (Age 12), Mary Morton Todd (Age 69), William Francis Todd (Age 41, Barister at Law), [Galloping Green, Dublin][Mandeville]
+- 02/04/1911 - [1911 Census - Todd][1911-t1], [p2][1911-t2] - John Paul Todd (Master Mechanical Engineer, Age 36), Jane Constance Todd (Age 30), Paul Vivien Todd (Age 7), [Haddon Road, Clontarf East, Dublin][haddon]
+- 02/04/1911 - [1911 Census - Redmond][1911-r1], [p2][1911-r2] - William Charles Forbes Redmond (District Inspector, Royal Irish Constabulary, Age 37), Ethel Redmond (Age 33), Helen Forbes Redmond (Age 7), Rhona Forbes Richmond (Age 5), [4 Montpellier, Cromac, Belfast][Montpellier]
 - 05/06/1911 - [Ralph Henry Joseph Brown Birth][brb] - Father: Joseph Brown (Professor), Mother: Elizabeth Brown - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
 - 28/07/1918 - [John Paul Todd][djpt] - Civil Engineer, Age 43 - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
 - 29/03/1920 - [Joseph Brown Death][djb] - Professor of Mathematics, Age 53 - [Mandeville, Torquay Road, Foxrock, Dublin][Mandeville]
@@ -129,10 +139,14 @@ flowchart TB
 [mjtmm]: ./john-todd-mary-morton-marriage-8233829.pdf
 [mjbet]: ./joseph-brown-elizabeth-todd-marriage-5837578.pdf
 [mjtjm]: ./john-todd-jane-matthews-marriage-5772814.pdf
-[mwreth]: ./william-redmond-ethel-todd-5742493.pdf
+[mwreth]: ./william-redmond-ethel-todd-marriage-5742493.pdf
+[bgb]: ./george-brown-birth2339789.pdf
 [bjb]: ./joseph-brown-birth-2304677.pdf
 [bet]: ./elizabeth-brown-todd-birth-2258204.pdf
 [bwt]: ./william-todd-birth-2236072.pdf
+[blmt]: ./lucy-mary-todd-birth-2207615.pdf
+[bhmt]: ./helen-todd-birth-2171794.pdf
+[bjpt]: ./john-paul-todd-birth-2136994.pdf
 [bmb]: ./moira-brown-birth-1809338.pdf
 [bfb]: ./frances-brown-birth-1781727.pdf
 [pvt]: ./paul-vivien-todd-birth-1727954.pdf
@@ -156,9 +170,20 @@ flowchart TB
 [richmond]: https://goo.gl/maps/VkzwNNJ19ogkasV36
 [haddon]: https://maps.app.goo.gl/RdHuKJYQ1ZXKun7d8
 [salem]: https://maps.app.goo.gl/kBprUAKCNCHG4X2u5
+[holy-trinity]: https://maps.app.goo.gl/V5S7GkaxJzX7osSi9
+[mountmellick]: https://maps.app.goo.gl/v5oayyWgFkVdGt7A7
 [bellevue]: https://goo.gl/maps/qydNZgZp45QjVjuS7
+[stlawrence]: https://maps.app.goo.gl/XmaY6ysKeC7hyrZ29
+[stla]: https://www.irishtimes.com/life-and-style/homes-and-property/new-to-market/the-earl-of-howth-s-sutton-pad-for-1-5m-1.1865966
+[howth-church]: https://maps.app.goo.gl/bQrKBUemUXfaiGfA9
+[montpellier]: https://maps.app.goo.gl/LEoALM9wUZBaNo2cA
 [Mandeville]: https://goo.gl/maps/hHANsYPr6JrsAyFU6
 [gordonave]: https://maps.app.goo.gl/xHfGjCEgfVPuhS6E9
-[1901]: ./1901-census.pdf
-[1911-1]: ./1911-census-1.pdf
-[1911-2]: ./1911-census-2.pdf
+[1901]: ./1901-brown-census.pdf
+[1901-t]: ./1901-john-todd-census.pdf
+[1911-b1]: ./1911-brown-census-1.pdf
+[1911-b2]: ./1911-brown-census-2.pdf
+[1911-t1]: ./1911-john-todd-census-1.pdf
+[1911-t2]: ./1911-john-todd-census-2.pdf
+[1911-r1]: ./1911-redmond-census-1.pdf
+[1911-r2]: ./1911-redmond-census-2.pdf
