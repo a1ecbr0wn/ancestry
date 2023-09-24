@@ -4,18 +4,18 @@
 
 ```mermaid
 flowchart TB
-    job[John Brown]
+    job("John Brown")
     ell("Ellen Walker
       d:15/02/1881")
-    jot["John Todd
-      d: 10/06/1880"]
+    jot("John Todd
+      d: 10/06/1880")
     mar("Mary Morton
       d: 22/08/1928")
-    geo["George Brown
-      b: 18/01/1864"]
-    jos["Joseph Brown
+    geo("George Brown
+      b: 18/01/1864")
+    jos("Joseph Brown
       b: 02/01/1866
-      d: 29/03/1920"]
+      d: 29/03/1920")
     eli("Elizabeth Todd
       b: 17/07/1868")
     wil("William Francis Todd
@@ -44,8 +44,8 @@ flowchart TB
       b: 12/03/1897")
     fra("Frances Eleanor Brown
       b: 14/02/1899")
-    ral["Ralph Henry Joseph Brown
-      b: 05/06/1911"]
+    ral("Ralph Henry Joseph Brown
+      b: 05/06/1911")
 
     subgraph jotmar["m: 30/10/1867"]
         direction LR
