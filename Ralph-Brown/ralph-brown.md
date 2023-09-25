@@ -115,7 +115,7 @@ flowchart TB
 - 22/08/1928 - [Mary Morton Todd Death][dmt] - Widow, Age 87 - 6 Fortfield Villas, Rathborne, Dublin
 - 01/01/1933 - [William Francis Todd Death][dwt] - Independant Means, Age 62 - [Gordon Avenue, Foxrock, Dublin][gordonave]
 
-## Citations
+## Ralph Brown Citations
 
 - 01/Aug/1936 - [Fahie, W., Brown, R. The Beams Ultracentrifuge. Nature 138, 207 (1936)](138207b0.pdf) [DOI](https://doi.org/10.1038/138207b0)
 - 14/Nov/1936 - [Brown, R. Effect of Large Centrifugal Forces on Paramecium. Nature 138, 843 (1936)](138843a0.pdf) [DOI](https://doi.org/10.1038/138843a0)
