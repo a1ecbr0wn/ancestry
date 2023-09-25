@@ -81,7 +81,7 @@ flowchart TB
 - 18/05/1877 - [Martha Craig Death][dmc1] - Widow, 68 - Ardcoen House, Strabane - [Newspaper Record](https://www.genealogy.com/forum/surnames/topics/stevenson/3206/)
 - 10/08/1886 - [James Stevenson Death][djs] - Iron Founder, 63, Ardcoen, Strabane
 - 16/09/1886 - [Wiiliam Fleming Stevenson Death][dwfs] - Presbyterian Minister, 53 [Biography][biowfs]
-- 10/1888 - Thomas Henry Craig Stephenson, Strabane Academy to Trinity College Dublin [Freeman's Journal][fj], [Index to Admissions Records, 1880-1896, Trinity College Dublin, p142][thcs-tcd] [screenshot][thcs-tcdss]
+- 10/10/1888 - Thomas Henry Craig Stephenson, Strabane Academy to Trinity College Dublin, Tutor: [Dr L C Purser][purser] [Freeman's Journal][fj], [Admissions Records 1877-1910, Trinity College Dublin, p229-230][thcs-tcd1] [screenshot][thcs-tcdss1], [Index to Admissions Records, 1880-1896, Trinity College Dublin, p142][thcs-tcd2] [screenshot][thcs-tcdss2]
 - 12/09/1932 - Thomas Henry Craig Stevenson Death - [Obituary 1][othcs1], [2][othcs2]
 
 ## Wikipedia
@@ -119,7 +119,10 @@ flowchart TB
 [leckpatrick]: https://maps.app.goo.gl/GLChqzaDe9irynTAA
 [bowling-green]: https://maps.app.goo.gl/ThU7yL2vC82EjYhE9
 [fj]: https://soc.genealogy.ireland.narkive.com/GbOUCUoP/excerpts-from-irish-newspapers
-[thcs-tcd]: https://digitalcollections.tcd.ie/concern/works/41687k72w
-[thcs-tcdss]: ./thcs-trinity-entrance.png
+[purser]: https://en.wikipedia.org/wiki/Louis_Claude_Purser
+[thcs-tcd1]: https://digitalcollections.tcd.ie/concern/works/h989r5354
+[thcs-tcd2]: https://digitalcollections.tcd.ie/concern/works/41687k72w
+[thcs-tcdss1]: ./thcs-trinity-entrance-1.png
+[thcs-tcdss2]: ./thcs-trinity-entrance-2.png
 [othcs1]: ./THC%20Stevenson%20obit%20brmedj07406-0038.pdf
 [othcs2]: ./THC%20Stevenson%20obit%203.pdf
