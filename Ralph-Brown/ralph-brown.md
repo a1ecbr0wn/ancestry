@@ -96,6 +96,8 @@ flowchart TB
 - 23/03/1875 - [John Paul Todd Birth][bjpt] - Father: John Todd (Farmer) - Mother: Mary Todd (nee Morton) - [Tankardstown, Ballylinan, Queen's County (County Laois)][tankardstown]
 - 10/06/1880 - [John Todd Death][djt] - Farmer, Age 40 - [Farnham House, Finglas, Dublin (Mental Hospital)][finglas]
 - 15/02/1881 - [Ellen Brown Death][deb] - Farmer's Widow, Age 59 - Richhill, Armagh
+- 07/1883 - Joseph Brown to Trinity College Dublin 1 [Index to Admissions Records, 1880-1896, Trinity College Dublin, p13][jb-tcd] [screenshot][jb-tcdss1]
+- 13/06/1884 - Joseph Brown to Trinity College Dublin 2 [Index to Admissions Records, 1880-1896, Trinity College Dublin, p15][jb-tcd] [screenshot][jb-tcdss2]
 - 10/07/1896 - [Joseph Brown & Elizabeth Todd Marriage][mjbet] - Joseph: [79 Wellington Road, Dublin][wellington] - Elizabeth [13 Earlsfort Terrace][earlsfort] - [St Mathius Church, Killiney, Dublin][mathius]
 - 12/03/1897 - [Mary Moira Brown Birth][bmb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [5 Richmond Hill, Monkstown, Dublin][richmond]
 - 14/02/1899 - [Frances Ellen Brown Birth][bfb] - Father: Joseph Brown (School Master), Mother: Elizabeth Brown - [Bellevue, 16 Station Road, Sutton, Dublin][bellevue]
@@ -159,6 +161,9 @@ flowchart TB
 [djb]: ./joseph-brown-death-4410453.pdf
 [dmt]: ./mary-morton-todd-death-4347261.pdf
 [dwt]: ./william-todd-death-4316053.pdf
+[jb-tcd]: https://digitalcollections.tcd.ie/concern/works/41687k72w
+[jb-tcdss1]: ./jb-trinity-entrance-1.png
+[jb-tcdss2]: ./jb-trinity-entrance-2.png
 [kilmore]: https://goo.gl/maps/Q34u7aQVfcHRMDyk9
 [creenagh]: https://goo.gl/maps/nqLH15nnbTRxAA297
 [marys]: https://goo.gl/maps/DkE3m2JsXR6dBEHd6

@@ -119,7 +119,7 @@ flowchart TB
 [leckpatrick]: https://maps.app.goo.gl/GLChqzaDe9irynTAA
 [bowling-green]: https://maps.app.goo.gl/ThU7yL2vC82EjYhE9
 [fj]: https://soc.genealogy.ireland.narkive.com/GbOUCUoP/excerpts-from-irish-newspapers
-[thcs-tcd]: https://digitalcollections.tcd.ie/concern/works/41687k72w?locale=en
+[thcs-tcd]: https://digitalcollections.tcd.ie/concern/works/41687k72w
 [thcs-tcdss]: ./thcs-trinity-entrance.png
 [othcs1]: ./THC%20Stevenson%20obit%20brmedj07406-0038.pdf
 [othcs2]: ./THC%20Stevenson%20obit%203.pdf
