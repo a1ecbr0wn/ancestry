@@ -11,26 +11,10 @@ flowchart TB
         direction LR
         ws1 ---mam
     end
-    thc("Thomas Henry Craig
-      d: 24/11/1870")
-    mc("Martha Craig
-      d: 18/05/1877")
-    subgraph thcmc["m: -"]
-        direction LR
-        thc ---mc
-    end
-    jwc("Sir John Walker Craig
-      b: 1847")
-    thcmc --->jwc
-    eo("Elsie Oakman")
-    subgraph jwceo["m: -"]
-        direction LR
-        jwc ---eo
-    end
-    mmc("Martha Mary Craig")    
-    thcmc --->mmc
+    
     ss("Samuel Stevenson")
     ws1mam --->ss
+
     wfs("William Fleming Stevenson
       b: 20/09/1832
       d: 16/09/1886")
@@ -42,20 +26,54 @@ flowchart TB
         direction LR
         wfs ---ems
     end
-    js("James Stevenson")
+    jss("John Sinclair Stevenson
+      b: 04/02/1868")
+    wfsem --->jss
+    lss("Lilian Sinclair Stevenson
+      b: 16/11/1870")
+    wfsem --->lss
+    uss("- Stevenson (f)
+      b: 01/03/1875")
+    wfsem --->uss
+    wss("William Sinclair Stevenson
+      b: 25/05/1883")
+    wfsem --->wss
+
+    thc("Thomas Henry Craig
+      d: 24/11/1870")
+    mc("Martha Craig
+      b: ~1809
+      d: 18/05/1877")
+    subgraph thcmc["m: -"]
+        direction LR
+        thc ---mc
+    end
+
+    mmc("Martha Mary Craig")    
+    thcmc --->mmc
+    jwc("Sir John Walker Craig
+      b: 1847")
+    thcmc --->jwc
+    eo("Elsie Oakman")
+    subgraph jwceo["m: -"]
+        direction LR
+        jwc ---eo
+    end
+
+    js("James Stevenson
+      d: 10/08/1886")
     ws1mam --->js
     subgraph jsmc["m: 04/06/1862"]
         direction LR
         js ---mmc
     end
+
     ws3("William Stevenson
       b: 14/11/1864")
     jsmc -->ws3
-    fs("- Stevenson(f)
+    fs("- Stevenson (f)
       b: 16/09/1867")
     jsmc --->fs
-    sis("Sinclair Stevenson")
-    wfsem --->sis
     thcs("Thomas Henry Craig Stevenson
       b: 24/11/1870
       d: 12/09/1932")
@@ -76,9 +94,13 @@ flowchart TB
 - 14/11/1864 - [William Stevenson Birth][bws] - Father: James Stevenson (Ironmonger), Mother: Martha Mary Stevenson (nee Craig), Strabane
 - 01/06/1865 - [William Flemming Stevenson & Elizabeth Montgomery Sinclair Marriage][mwfsems]: William Fleming Stevenson (Clergyman, Dublin), Elizabeth Sinclair (Belfast), William Stevenson (Merchant), John Sinclair (Merchant) - Belfast
 - 16/09/1867 - [Stevenson Birth (female)][bfs] - Father: James Stevenson (Merchant), Mother: Martha Stevenson (nee Craig), [Bowling Green, Strabane][bowling-green]
+- 04/02/1868 - [John Sinclair Stevenson][bjss] - Father: Rev. William Fleming Stevenson (Presbyterian Minister), Mother: Elizabeth Montgomery Stevenson (nee Sinclair) - [Orwell Bank, Orwell Road, Rathgar, Dublin][orwell]
+- 25/05/1870 - [Lilian Sinclair Stevenson][blss] - Father: Rev. William Fleming Stevenson (Presbyterian Minister), Mother: Elizabeth Montgomery Stevenson (nee Sinclair) - [Orwell Bank, Orwell Road, Rathgar, Dublin][orwell]
 - 24/11/1870 - [Thomas Henry Craig Stevenson Birth][bthcs] - Father: James Stevenson (Merchant), Mother: Martha Stevenson (nee Craig), Bowling Green, Strabane - [Londonderry Journal](https://www.cotyroneireland.com/surnames/stevenson3.html)
 - 1870 - Thomas Craig Death
+- 01/03/1875 - [Unknown Stevenson (f) Birth] - Father: Rev. William Fleming Stevenson (Presbyterian Minister), Mother: Elizabeth Montgomery Stevenson (nee Sinclair) - [Orwell Bank, Orwell Road, Rathgar, Dublin][orwell]
 - 18/05/1877 - [Martha Craig Death][dmc1] - Widow, 68 - Ardcoen House, Strabane - [Newspaper Record](https://www.genealogy.com/forum/surnames/topics/stevenson/3206/)
+- 25/05/1883 - [William Sinclair Stevenson][bwss] - Father: Rev. William Fleming Stevenson (Presbyterian Minister), Mother: Elizabeth Montgomery Stevenson (nee Sinclair) - [Orwell Bank, Orwell Road, Rathgar, Dublin][orwell]
 - 10/08/1886 - [James Stevenson Death][djs] - Iron Founder, 63, Ardcoen, Strabane
 - 16/09/1886 - [Wiiliam Fleming Stevenson Death][dwfs] - Presbyterian Minister, 53 [Biography][biowfs]
 - 10/10/1888 - Thomas Henry Craig Stephenson, Strabane Academy to Trinity College Dublin, Tutor: [Dr L C Purser][purser] [Freeman's Journal][fj], [Admissions Records 1877-1910, Trinity College Dublin, p229-230][thcs-tcd1] [screenshot][thcs-tcdss1], [Index to Admissions Records, 1880-1896, Trinity College Dublin, p142][thcs-tcd2] [screenshot][thcs-tcdss2]
@@ -109,6 +131,9 @@ flowchart TB
 [bfs]: ./f-stevenson-birth-2276746.pdf
 [bthcs]: ./thomas-stevenson-birth-2218341.pdf
 [mjsmc]: ./james-stevenson-martha-craig-marriage-5495910.pdf
+[bjss]: ./john-sinclair-stevenson-birth-2268747.pdf
+[blss]: ./lilian-sinclair-stevenson-birth-2218711.pdf
+[bwss]: ./william-sinclair-stevenson-birth-2006376.pdf
 [mwfsems]: ./william-f-stevenson-elizabeth-sinclair-marriage-8257038.pdf
 [djs]: ./james-stevenson-death-4786804.pdf
 [dmc1]: ./martha-craig-1-death-7210651.pdf
@@ -117,6 +142,7 @@ flowchart TB
 [wwjwc]: ./Thom's_Irish_who's_who.djvu.jpg
 [wwljwc]: https://ia600207.us.archive.org/26/items/thomsirishwhoswh00dubl/thomsirishwhoswh00dubl.pdf
 [leckpatrick]: https://maps.app.goo.gl/GLChqzaDe9irynTAA
+[orwell]: https://maps.app.goo.gl/usX7UikGVtvz74wR6
 [bowling-green]: https://maps.app.goo.gl/ThU7yL2vC82EjYhE9
 [fj]: https://soc.genealogy.ireland.narkive.com/GbOUCUoP/excerpts-from-irish-newspapers
 [purser]: https://en.wikipedia.org/wiki/Louis_Claude_Purser
