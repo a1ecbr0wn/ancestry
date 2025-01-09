@@ -44,7 +44,7 @@ flowchart TB
       b: 12/03/1897")
     fra("Frances Eleanor Brown
       b: 14/02/1899")
-    ral("Ralph Henry Joseph Brown
+    rhjb("Ralph Henry Joseph Brown
       b: 05/06/1911")
 
     subgraph jotmar["m: 30/10/1867"]
@@ -80,7 +80,13 @@ flowchart TB
     end
     joseli -->moi
     joseli -->fra
-    joseli -->ral
+    joseli -->rhjb
+
+    ks("Kathleen Stevenson")
+    subgraph ksrhjb["m: -"]
+        direction LR
+        rhjb ---ks
+    end
 ```
 
 ## Events

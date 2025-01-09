@@ -32,7 +32,7 @@ flowchart TB
     lss("Lilian Sinclair Stevenson
       b: 16/11/1870")
     wfsem --->lss
-    uss("- Stevenson (f)
+    uss("Unknown Stevenson (f)
       b: 01/03/1875")
     wfsem --->uss
     wss("William Sinclair Stevenson
@@ -71,20 +71,41 @@ flowchart TB
     ws3("William Stevenson
       b: 14/11/1864")
     jsmc -->ws3
-    fs("- Stevenson (f)
+    fs("Unknown Stevenson (f)
       b: 16/09/1867")
     jsmc --->fs
     thcs("Thomas Henry Craig Stevenson
       b: 24/11/1870
       d: 12/09/1932")
-    s("? Sillifant")
+    els("Ella Louise Sillifant")
     jsmc --->thcs
-    subgraph thcss["m: -"]
+    subgraph thcsels["m: -"]
         direction LR
-        thcs ---s
+        thcs ---els
     end
+
+    tcs("Surgeon Commander Thomas Craig Stevenson
+      b: Sep 1903 - Brighton, Sussex, England
+      d: 28 Feb 1942 - Sumatra waters")
+    thcsels --->tcs
+    bfm("Betty Frances Mccormack
+      b: 1906
+      d: 1953")
+    subgraph tcsbfm["m: -"]
+        direction LR
+        tcs ---bfm
+    end
+  
     ks("Kathleen Stevenson")
-    thcss --->ks
+    thcsels --->ks
+    rhjb("Ralph Henry Joseph Brown
+      b: 05/06/1911")
+    subgraph ksrhjb["m: -"]
+        direction LR
+        rhjb ---ks
+    end
+
+
 ```
 
 ## Events
@@ -102,9 +123,10 @@ flowchart TB
 - 18/05/1877 - [Martha Craig Death][dmc1] - Widow, 68 - Ardcoen House, Strabane - [Newspaper Record](https://www.genealogy.com/forum/surnames/topics/stevenson/3206/)
 - 25/05/1883 - [William Sinclair Stevenson][bwss] - Father: Rev. William Fleming Stevenson (Presbyterian Minister), Mother: Elizabeth Montgomery Stevenson (nee Sinclair) - [Orwell Bank, Orwell Road, Rathgar, Dublin][orwell]
 - 10/08/1886 - [James Stevenson Death][djs] - Iron Founder, 63, Ardcoen, Strabane
-- 16/09/1886 - [Wiiliam Fleming Stevenson Death][dwfs] - Presbyterian Minister, 53 [Biography][biowfs]
+- 16/09/1886 - [Wiliam Fleming Stevenson Death][dwfs] - Presbyterian Minister, 53 [Biography][biowfs]
 - 10/10/1888 - Thomas Henry Craig Stephenson, Strabane Academy to Trinity College Dublin, Tutor: [Dr L C Purser][purser] [Freeman's Journal][fj], [Admissions Records 1877-1910, Trinity College Dublin, p229-230][thcs-tcd1] [screenshot][thcs-tcdss1], [Index to Admissions Records, 1880-1896, Trinity College Dublin, p142][thcs-tcd2] [screenshot][thcs-tcdss2]
 - 12/09/1932 - Thomas Henry Craig Stevenson Death - [Obituary 1][othcs1], [2][othcs2]
+- 28/02/1942 [Commander Surgeon Thomas Craig Stevenson](./commander-surgeon-thomas-craig-stevenson-CWGC-certificate.pdf) ([CWGC](https://www.cwgc.org/find-records/find-war-dead/casualty-details/2488354/thomas-craig-stevenson/))
 
 ## Wikipedia
 
@@ -116,8 +138,9 @@ flowchart TB
 - 04/1904 - [Stevenson, T. (1904). A Method of Estimating Future Populations. Journal of Hygiene, 4(2), 207-216.](./stevenson-a-method-of-estimating-future-populations.pdf) [DOI](https://doi.org/10.1017/S0022172400002138)
 - 04/1905 - [Newsholme, A., & Stevenson, T. (1905). An Improved Method of calculating Birth-Rates. Journal of Hygiene, 5(2), 175-184.](./newsholme-stevenson-an-improved-method-of-calculating-birth-rates.pdf) [DOI](https://doi.org/10.1017/S0022172400002436)
 - 06/1905 - [Newsholme, A., & Stevenson, T. (1905). An Improved Method of calculating Birth-Rates. Part II. Results. Journal of Hygiene, 5(3), 304-310.](./newson-stevenson-an-improved-method-of-calculating-birth-rates-part-ii-results.pdf) [DOI](https://doi.org/10.1017/S0022172400002576)
-- 03/1906 - [Newsholme, A., & Stevenson, T. H. C. The Decline of Human Fertility in the United Kingdom and Other Countries as shown by Corrected Birth-Rates. Journal of the Royal Statistical Society, 69(1), 34–87.](https://www.jstor.org/stable/2339549) [DOI](https://doi.org/10.2307/2339549)
+- 03/1906 - [Newsholme, A., & Stevenson, T. H. C. The Decline of Human Fertility in the United Kingdom and Other Countries as shown by Corrected Birth-Rates. Journal of the Royal Statistical Society, 69(1), 34–87.](https://www.jstor.org/stable/2339549) [DOI](https://doi.org/10.2307/2339549) | [Download from the Welcome Collection](./the-decline-of-human-fertility.pdf) [DOI](https://wellcomecollection.org/works/cqakk5pv)
 - 06/1910 - [Stevenson, T. H. C. (1910). Suggested Lines of Advance in English Vital Statistics. Journal of the Royal Statistical Society, 73(6/7), 685–713.](https://www.jstor.org/stable/2339921) [DOI](https://doi.org/10.2307/2339921)
+- [The Tabulation of Vital Statistics . Nature 84, 130 (1910)](./the-tabulation-of-vital-statistics.pdf) [DOI](https://doi.org/10.1038/084130a0)
 - 05/1920 - [Stevenson, T. H. C. (1920). The Fertility of Various Social Classes in England and Wales from the Middle of the Nineteenth Century to 1911. Journal of the Royal Statistical Society, 83(3), 401–444.](https://www.jstor.org/stable/2340958) [DOI](https://doi.org/10.2307/2340958)
 - 01/1921 - [Stevenson, T. H. C. (1921). The Incidence of Mortality Upon the Rich and Poor Districts of Paris and London. Journal of the Royal Statistical Society, 84(1), 90–99.](https://www.jstor.org/stable/2340592) [DOI](https://doi.org/10.2307/2340592)
 - 12/1923 - [Stevenson, T. H. C, Social distribution of mortality from different causes in England and Wales 1910-12. Biometrika, Vol 15, Issue 3-4, p382–401](https://academic.oup.com/biomet/article-abstract/15/3-4/382/201418), [DOI](https://doi.org/10.1093/biomet/15.3-4.382)
