@@ -199,3 +199,7 @@ flowchart TB
 [1911-t2]: ./1911-john-todd-census-2.pdf
 [1911-r1]: ./1911-redmond-census-1.pdf
 [1911-r2]: ./1911-redmond-census-2.pdf
+
+## Articles
+
+[Mandeville, Irish Times, 2015](https://www.irishtimes.com/life-and-style/homes-and-property/new-to-market/protected-structure-in-foxrock-with-almost-an-acre-of-land-for-2-75m-1.2183761)
